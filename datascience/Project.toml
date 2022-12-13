@@ -1,0 +1,7 @@
+name = "datascience"
+uuid = "ced318b7-9b15-4942-9114-a94451fbee7d"
+authors = ["Kunal Kumar Sahoo <kunal.sahoo2003@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
